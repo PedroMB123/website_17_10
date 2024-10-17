@@ -1,0 +1,29 @@
+#header {
+  height: 100px;
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.6);
+  font-size: 30px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#senai {
+  height: 100px;
+}
+header nav a {
+  text-decoration: none;
+  color: black;
+}
+
+main {
+  justify-content: space-around;
+  display: flex;
+  align-content: center;
+}
+
+.cards {
+  background-color: red;
+  height: 300px;
+  width: 400px;
+  border-radius: 10px;
+}
